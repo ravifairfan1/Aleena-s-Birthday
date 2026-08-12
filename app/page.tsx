@@ -4,27 +4,27 @@ import { useState } from "react";
 
 const memories = [
   {
-    image: "/memory1.png",
+    image: "/Aleena-s-Birthday/memory1.png",
     caption: "A little moment to remember 🌷",
     rotate: "-rotate-2",
   },
   {
-    image: "/memory2.png",
+    image: "/Aleena-s-Birthday/memory2.png",
     caption: "Good times, beautiful memories 💕",
     rotate: "rotate-2",
   },
   {
-    image: "/memory3.png",
+    image: "/Aleena-s-Birthday/memory3.png",
     caption: "One of my favorite moments ✨",
     rotate: "-rotate-1",
   },
   {
-    image: "/memory4.png",
+    image: "/Aleena-s-Birthday/memory4.png",
     caption: "Just us being us 🤍",
     rotate: "rotate-2",
   },
   {
-    image: "/memory5.png",
+    image: "/Aleena-s-Birthday/memory5.png",
     caption: "A memory worth keeping forever 🌸",
     rotate: "-rotate-2",
   },
